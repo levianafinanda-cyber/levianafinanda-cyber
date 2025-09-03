@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Leviana Finanda 👋
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKhhHqh2e0RQLnBnyMfpiCXy_RlUC3Y65MAQ&s.gif" alt="Developer Boy" width="250"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29teGYyZnNuenF2MTV6YTJtbGc4NXNsdnVpMHltemc1MXdsM2o5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" alt="Developer Boy" width="550"/>
 </p>
 
 ## 🚀 About Me
@@ -44,10 +44,6 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=levianafinanda&show_icons=true&theme=blueberry" alt="Leviana's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=levianafinanda&theme=blueberry">
 </p>
 
 ---

@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=levianafinanda&theme=blueberry" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=levianafinanda&theme=blueberry">
 </p>
 
 ---

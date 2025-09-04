@@ -64,6 +64,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=levianafinanda&theme=blueberry" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=levianafinanda-cyber&show_icons=true&theme=blueberry" alt="Leviana's GitHub stats"/>
+</p>
+
 <!-- Animasi snake kontribusi -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>

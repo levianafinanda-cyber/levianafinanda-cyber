@@ -15,24 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
-  <a href="#" style="font-weight:bold; background: linear-gradient(90deg, #00c6ff, #0072ff, #00c6ff); -webkit-background-clip: text; color: transparent; animation: gradient 3s infinite;">
-    Hello gusyy👋
-  </a>
-</h1>
-
-
-
-
-
+<!-- Header dengan background gelombang biru -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=header&text=Hello%20Gusy!&fontSize=40&fontColor=ffffff" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29teGYyZnNuenF2MTV6YTJtbGc4NXNsdnVpMHltemc1MXdsM2o5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" alt="Developer Boy" width="550"/>
-</p>
-
-<!-- Header dengan background gelombang biru -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=header&text=Leviana%20Finanda&fontSize=40&fontColor=ffffff" width="100%"/>
 </p>
 
 <!-- 🛠️ Tech Stack -->

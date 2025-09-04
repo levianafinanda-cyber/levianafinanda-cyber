@@ -57,15 +57,11 @@ Here are some ideas to get you started:
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=levianafinanda&show_icons=true&theme=blueberry" alt="Leviana's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=levianafinanda&theme=blueberry" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=levianafinanda-cyber&show_icons=true&theme=blueberry" alt="Leviana's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=levianafinanda-cyber&theme=blueberry" alt="GitHub Streak"/>
 </p>
 
 <!-- Animasi snake kontribusi -->

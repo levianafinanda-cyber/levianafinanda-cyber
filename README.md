@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29teGYyZnNuenF2MTV6YTJtbGc4NXNsdnVpMHltemc1MXdsM2o5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" alt="Developer Boy" width="100%"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29teGYyZnNuenF2MTV6YTJtbGc4NXNsdnVpMHltemc1MXdsM2o5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" alt="Developer Boy" width="80%"/>
 </p>
 
 <!-- 🛠️ Tech Stack -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="30"/> 
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="50"/> 
   <b>🛠️ Tech Stack</b> 
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="50"/>
 </h2>
 
 <!-- Ikon statis -->
@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 
 <!-- 📊 GitHub Stats -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/Veq8KumKpSC24/giphy.gif" width="30"/> 
+  <img src="https://media.giphy.com/media/Veq8KumKpSC24/giphy.gif" width="50"/> 
   <b>📊 GitHub Stats</b> 
-  <img src="https://media.giphy.com/media/Veq8KumKpSC24/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/Veq8KumKpSC24/giphy.gif" width="50"/>
 </h2>
 
 <p align="center">
@@ -68,23 +68,18 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levianafinanda-cyber&layout=compact&theme=blueberry" alt="Most Used Languages"/>
 </p>
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/Veq8KumKpSC24/giphy.gif" width="50"/> 
+  <b>🎮 Fun Animations</b> 
+  <img src="https://media.giphy.com/media/Veq8KumKpSC24/giphy.gif" width="50"/>
+</h2>
 
 <!-- Animasi snake kontribusi -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-## 🎮 Fun Animations
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/levianafinanda-cyber/levianafinanda-cyber/output/pacman.svg" alt="Pacman animation"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/levianafinanda-cyber/levianafinanda-cyber/output/mario.svg" alt="Mario animation"/>
-</p>
-
-
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rexxy-4v/rexxy-4v/output/pacman-contribution-graph.svg">
 
 <!-- Footer dengan gelombang biru -->
 <p align="center">

@@ -2,25 +2,28 @@ name: Generate Pacman
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # jalan tiap 12 jam
-  workflow_dispatch: # bisa dijalankan manual
+    - cron: "0 0 * * *" # jalan tiap hari jam 00:00 UTC
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Generate Pacman
-        uses: Platane/snk/svg-only@v2
+      - name: Generate snake animation (Pacman style)
+        uses: Platane/snk@v3
         with:
           github_user_name: levianafinanda-cyber
           outputs: |
-            ./output/pacman.svg
+            dist/pacman.svg
 
       - name: Push to output branch
-        uses: EndBug/add-and-commit@v9
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          message: "update pacman"
-          add: "output/pacman.svg"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_PAGES_REPO: levianafinanda-cyber/levianafinanda-cyber

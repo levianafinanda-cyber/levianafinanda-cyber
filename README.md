@@ -74,6 +74,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
+## 🎮 Fun Animations
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/levianafinanda-cyber/levianafinanda-cyber/output/pacman.svg" alt="Pacman animation"/>
 </p>
@@ -81,6 +83,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://raw.githubusercontent.com/levianafinanda-cyber/levianafinanda-cyber/output/mario.svg" alt="Mario animation"/>
 </p>
+
 
 
 <!-- Footer dengan gelombang biru -->

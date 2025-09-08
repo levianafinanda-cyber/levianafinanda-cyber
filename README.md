@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29teGYyZnNuenF2MTV6YTJtbGc4NXNsdnVpMHltemc1MXdsM2o5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" alt="Developer Boy" width="550"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29teGYyZnNuenF2MTV6YTJtbGc4NXNsdnVpMHltemc1MXdsM2o5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" alt="Developer Boy" width="100%"/>
 </p>
 
 <!-- 🛠️ Tech Stack -->
@@ -61,13 +61,27 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=levianafinanda-cyber&theme=blueberry" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=levianafinanda-cyber&theme=blueberry" alt="Leviana's GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levianafinanda-cyber&layout=compact&theme=blueberry" alt="Most Used Languages"/>
+</p>
+
 
 <!-- Animasi snake kontribusi -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/levianafinanda-cyber/levianafinanda-cyber/output/pacman.svg" alt="Pacman animation"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/levianafinanda-cyber/levianafinanda-cyber/output/mario.svg" alt="Mario animation"/>
+</p>
+
 
 <!-- Footer dengan gelombang biru -->
 <p align="center">

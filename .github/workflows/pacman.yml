@@ -1,0 +1,26 @@
+name: Generate Pacman
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # jalan tiap 12 jam
+  workflow_dispatch: # bisa dijalankan manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Generate Pacman
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: levianafinanda-cyber
+          outputs: |
+            ./output/pacman.svg
+
+      - name: Push to output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "update pacman"
+          add: "output/pacman.svg"

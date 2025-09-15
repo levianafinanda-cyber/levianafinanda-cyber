@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Header dengan background gelombang biru -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=header&text=Hello%20Gusy!&fontSize=40&fontColor=ffffff" width="100%"/>
-</p>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29teGYyZnNuenF2MTV6YTJtbGc4NXNsdnVpMHltemc1MXdsM2o5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" alt="Developer Boy" width="80%"/>
@@ -80,8 +76,3 @@ Here are some ideas to get you started:
 </p>
 
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rexxy-4v/rexxy-4v/output/pacman-contribution-graph.svg">
-
-<!-- Footer dengan gelombang biru -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" width="100%"/>
-</p>
